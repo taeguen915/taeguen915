@@ -1,0 +1,19 @@
+
+class Test:
+    def __init__(self):
+        self.war = 10
+        self.war2 = 9
+
+    def aa(self):
+        print('aaaff')
+
+
+
+
+class Inh(Test):
+    super(). __init__()
+    def main():
+
+        a = 10
+        a = "hellow"
+        print(a)
